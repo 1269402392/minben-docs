@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSD-MHFz.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/utils.md","filePath":"code/utils.md"}'),h={name:"code/utils.md"},k=n("",1),p=[k];function l(t,e,E,r,d,g){return a(),i("div",null,p)}const c=s(h,[["render",l]]);export{F as __pageData,c as default};
