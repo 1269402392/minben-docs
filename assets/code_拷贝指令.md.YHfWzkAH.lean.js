@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSD-MHFz.js";const c=JSON.parse('{"title":"拷贝(v-copy)","description":"","frontmatter":{},"headers":[],"relativePath":"code/拷贝指令.md","filePath":"code/拷贝指令.md"}'),h={name:"code/拷贝指令.md"},k=n("",2),p=[k];function l(t,e,E,r,d,y){return a(),i("div",null,p)}const o=s(h,[["render",l]]);export{c as __pageData,o as default};
