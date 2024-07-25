@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSD-MHFz.js";const F=JSON.parse('{"title":"控制并发请求","description":"","frontmatter":{},"headers":[],"relativePath":"code/并发请求.md","filePath":"code/并发请求.md"}'),h={name:"code/并发请求.md"},k=n("",6),l=[k];function p(t,e,E,r,d,g){return a(),i("div",null,l)}const c=s(h,[["render",p]]);export{F as __pageData,c as default};
