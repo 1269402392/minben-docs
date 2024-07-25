@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CSD-MHFz.js";const F=JSON.parse('{"title":"拖拽指令","description":"","frontmatter":{},"headers":[],"relativePath":"code/拖拽指令.md","filePath":"code/拖拽指令.md"}'),h={name:"code/拖拽指令.md"},k=n("",5),l=[k];function t(p,e,E,r,d,g){return a(),i("div",null,l)}const o=s(h,[["render",t]]);export{F as __pageData,o as default};
